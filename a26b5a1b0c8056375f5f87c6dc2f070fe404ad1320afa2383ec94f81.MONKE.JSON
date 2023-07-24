@@ -1,0 +1,11 @@
+{
+  "a26b5a1b0c8056375f5f87c6dc2f070fe404ad1320afa2383ec94f81": {
+    "project": "MONKE" ,
+    "categories": ["Meme"],
+    "socialLinks"?: {
+      "website"?: "https://monkecoin.square.site/",
+      "twitter"?: "https://twitter.com/MonkeCoinOnAda",
+      "discord"?: "https://discord.com/invite/xQSw6KhsMd",
+    }
+  }
+}
